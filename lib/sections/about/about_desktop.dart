@@ -96,7 +96,7 @@ class AboutDesktop extends StatelessWidget {
                   ),
                 ),
                 const Padding(
-                  padding: const EdgeInsets.symmetric(horizontal: 90),
+                  padding: EdgeInsets.symmetric(horizontal: 90),
                   child: Row(
                     children: [
                       Column(
